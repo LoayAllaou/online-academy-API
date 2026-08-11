@@ -1,0 +1,12 @@
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\bin\Debug\net9.0\ScaleUp.Core.deps.json
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\bin\Debug\net9.0\ScaleUp.Core.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\bin\Debug\net9.0\ScaleUp.Core.pdb
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.csproj.AssemblyReference.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.AssemblyInfoInputs.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.AssemblyInfo.cs
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\refint\ScaleUp.Core.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ScaleUp.Core.pdb
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Core\obj\Debug\net9.0\ref\ScaleUp.Core.dll

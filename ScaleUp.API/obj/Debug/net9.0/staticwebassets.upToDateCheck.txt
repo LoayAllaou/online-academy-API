@@ -1,0 +1,3 @@
+wwwroot\UploadedVideos\test12\كورس المسحضرات الصيدلانية العقيمة - الدكتور نبيل نمرود - مقدمة_c317fdda869349beb5591cf6647a9a03.mp4
+wwwroot\Videos\Course5\introducation.mp4
+wwwroot\Videos\Course5\lesson-1.mp4

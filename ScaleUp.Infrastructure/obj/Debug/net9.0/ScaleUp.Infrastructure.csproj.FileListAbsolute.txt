@@ -1,0 +1,17 @@
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Infrastructure.deps.json
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Infrastructure.runtimeconfig.json
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Infrastructure.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Infrastructure.pdb
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Core.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\bin\Debug\net9.0\ScaleUp.Core.pdb
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.AssemblyInfo.cs
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp..001DD5B1.Up2Date
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\refint\ScaleUp.Infrastructure.dll
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.pdb
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ScaleUp.Infrastructure.genruntimeconfig.cache
+C:\Users\Loaya\source\repos\ScaleUp\ScaleUp.Infrastructure\obj\Debug\net9.0\ref\ScaleUp.Infrastructure.dll
