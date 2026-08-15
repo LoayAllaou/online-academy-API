@@ -15,10 +15,12 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(new WebApplicationOptions
 {
     Args = args,
+    ContentRootPath = Directory.GetCurrentDirectory()
 });
 
 builder.Configuration.Sources.Clear();
 builder.Configuration
+    .SetBasePath(Directory.GetCurrentDirectory())
     .AddJsonFile("appsettings.json", optional: true, reloadOnChange: false)
     .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: false)
     .AddEnvironmentVariables();
